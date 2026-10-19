@@ -1,0 +1,11 @@
+Métrica,Resultado
+Dice médio,0.9070870121659278
+Desvio-padrão do Dice,0.0593614338895179
+Dice mediano,0.9212978109042288
+Dice global,0.9124791356492001
+IoU médio,0.8345980044914223
+Precisão,0.90274463425759
+Sensibilidade,0.918348179663886
+Especificidade,0.9849455609753031
+Imagens de teste,181.0
+Pacientes de teste,99.0

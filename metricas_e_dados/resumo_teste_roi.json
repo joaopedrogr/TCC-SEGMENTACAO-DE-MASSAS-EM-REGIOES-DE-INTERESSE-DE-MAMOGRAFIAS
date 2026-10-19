@@ -1,0 +1,15 @@
+{
+  "task": "segmentação em ROI de referência",
+  "n_images": 181,
+  "n_patients": 99,
+  "roi_scale": 2.0,
+  "threshold": 0.8,
+  "macro_dice_mean": 0.9070870121659278,
+  "macro_dice_std": 0.0593614338895179,
+  "macro_dice_median": 0.9212978109042288,
+  "micro_dice": 0.9124791356492001,
+  "mean_iou": 0.8345980044914223,
+  "mean_precision": 0.90274463425759,
+  "mean_sensitivity": 0.918348179663886,
+  "mean_specificity": 0.9849455609753031
+}
